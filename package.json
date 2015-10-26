@@ -1,0 +1,23 @@
+{
+  "name": "fin-scraper-lbb",
+  "version": "1.0.0",
+  "description": "Downloads the most recent csv from LBB, because it does not support anything useful.",
+  "main": "import.js",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "csv": "^0.4.6",
+    "moment": "^2.10.6",
+    "request": "^2.65.0",
+    "underscore": "^1.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pwaldhauer/fin-scraper-lbb.git"
+  },
+  "author": "Philipp Waldhauer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pwaldhauer/fin-scraper-lbb/issues"
+  },
+  "homepage": "https://github.com/pwaldhauer/fin-scraper-lbb"
+}
